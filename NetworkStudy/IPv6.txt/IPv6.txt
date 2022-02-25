@@ -5,7 +5,7 @@
 　　　　インターフェースID：13 11 11 FF FE 11 11 11
 
 　　　（１）MACアドレス：AAAA.AAAA.AAAA
-　　　　インターフェースID：A0 AA AA FF FF AA AA AA
+　　　　インターフェースID：A8 AA AA FF FF AA AA AA
 
 　　　（２）MACアドレス：9876.5432.10FE
 　　　　インターフェースID：9A 76 54 FF FF 32 10 FE
